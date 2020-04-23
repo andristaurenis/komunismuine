@@ -8,14 +8,12 @@ def serve_static_folder(any_path):
     return redirect(url_for('static', filename=any_path))
 
 @app.route('/')
-def hello_world():
-    #  return redirect(url_for('lt'))
-    # return redirect('/lt/') # everything is so staic right now
-    return "hello world"
+def root():
+    return redirect('/en/', code=301)
 
-#  @app.route('/lt/')
-#  def lt():
-    #  return url_for('static', filename='index.html')
+@app.route('/en/')
+def en():
+    return redirect('/en/index.html', code=301)
 
 
 if __name__ == "__main__":
