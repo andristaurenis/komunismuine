@@ -3,16 +3,9 @@ from flask import Flask, redirect, url_for, flash
 
 app = Flask(__name__)
 
-static_files = ['index.css', 'README.md', '/static/index-en.html']
 @app.route('/<path:any_path>')
 def serve_static_folder(any_path):
-    assumed_static_path = join('/static', any_path)
-    #  app.logger.debug(request.base_url)
-    app.logger.debug(any_path)
-    if assumed_static_path in static_files:
-        return "yay"
-        #  return app.send_static_file(assumed_static_path)
-    return {any_path: assumed_static_path}
+    return redirect(url_for('static', filename=any_path))
 
 @app.route('/')
 def hello_world():
