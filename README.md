@@ -1,6 +1,26 @@
 ## Todos
 by individuals I intend to reference the basketball incident
 
+ The Dangers of the World's Dependence on China for Drugs and Medical Supplies 
+http://en.minghui.org/html/articles/2020/4/2/183874.html
+
+ CCP Publishes New Book to Praise Itself for Its Handling of the Coronavirus Epidemic 
+http://en.minghui.org/html/articles/2020/3/5/183520.html
+
+“
+
+Why this no work
+            <table style="text-align:right">
+                <tr>
+                    <td>Email</td>
+                    <td><a href="mailto:peteris.ratnieks@gmail.com">peteris.ratnieks@gmail.com</a></td>
+                </tr>
+                <tr>
+                    <td>Keybase</td>
+                    <td><a href="https://keybase.io/peteris_ratnieks">peteris_ratnieks</a></td>
+                </tr>
+            </table>
+
 ## Deployment
 
 Run this as root on your ubuntu machine:

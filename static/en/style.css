@@ -68,7 +68,7 @@ article h2 {
     margin-bottom: 12px;
 }
 article p {
-	
+	margin: 0.5em;
 }
 main section {
 	
@@ -110,13 +110,20 @@ body > section {
     border-bottom: 1px solid #999;
     color: #333;
 }
-
-@media screen and (max-width: 1000px) {
-	body > section {
-		padding: 30px 20px;
-	}
+#narrowScreenBlock {
+    display: none;
 }
-@media screen and (max-width: 600px) {
+
+/* @media screen and (max-width: 1000px) { */
+/*     body > section { */
+/*         padding: 30px 20px; */
+/*     } */
+/* } */
+/* @media screen and (max-width: 600px) { */
+@media screen and (max-width: 750px) {
+    #narrowScreenBlock {
+        display: block;
+    }
 	main {
 		float: none;
 		width: 100%;
