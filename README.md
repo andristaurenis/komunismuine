@@ -25,6 +25,9 @@ http://en.minghui.org/html/articles/2020/2/10/183177.html
  Expert Exposes China’s ‘Horrific’ Organ Harvesting: ‘The Victim is Still Alive and Breathing’ 
  http://en.minghui.org/html/articles/2019/5/29/177832.html
 
+  Some Coronavirus Information That Can Help in Truth-Clarification
+  http://en.minghui.org/html/articles/2020/2/12/183212.html
+
 
 
 “
