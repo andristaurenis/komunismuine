@@ -7,6 +7,26 @@ http://en.minghui.org/html/articles/2020/4/2/183874.html
  CCP Publishes New Book to Praise Itself for Its Handling of the Coronavirus Epidemic 
 http://en.minghui.org/html/articles/2020/3/5/183520.html
 
+ Chinese Communist Party's Coronavirus Numbers Don't Add Up 
+http://en.minghui.org/html/articles/2020/4/20/184118.html
+
+ Canadian Lawmakers and Scholar Express “Serious Concerns” About WHO and Its Relationship with the Chinese Communist Party
+ http://en.minghui.org/html/articles/2020/4/23/184155.html
+
+ Three Plagues in the Ancient Roman Empire
+ http://en.minghui.org/html/articles/2020/2/4/183093.html
+
+ Why Did the Plagues of Ancient Rome Suddenly Disappear? 
+http://en.minghui.org/html/articles/2020/2/10/183177.html
+
+ Lessons from the CCP’s Orders to Destroy Virus Samples and Withhold Pandemic Information
+ http://en.minghui.org/html/articles/2020/4/27/184217.html
+
+ Expert Exposes China’s ‘Horrific’ Organ Harvesting: ‘The Victim is Still Alive and Breathing’ 
+ http://en.minghui.org/html/articles/2019/5/29/177832.html
+
+
+
 “
 
 Why this no work

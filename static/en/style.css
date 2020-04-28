@@ -58,6 +58,9 @@ aside {
 	float: right;
 	width: 30%;
 }
+aside p {
+	margin: 0.6em;
+}
 article {
     border-bottom: 2px dotted #999;
     padding-bottom: 20px;
@@ -88,6 +91,7 @@ address {
 }
 aside > div {
 	margin: 10px auto;
+	padding: 10px;
 	background: #AEC6CF;
 	min-height: 100px;
 }
