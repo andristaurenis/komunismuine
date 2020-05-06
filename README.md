@@ -1,5 +1,12 @@
 ## Todos
+correct spelling
+add link to github
+
+Add the following references
 by individuals I intend to reference the basketball incident
+
+Thirteen Methods of Torture Used in Today's China
+http://www.clearharmony.net/articles/a25608-Thirteen-Methods-of-Torture-Used-in-Today-s-China.html#.Xq71t5pRW00
 
  The Dangers of the World's Dependence on China for Drugs and Medical Supplies 
 http://en.minghui.org/html/articles/2020/4/2/183874.html
@@ -28,6 +35,9 @@ http://en.minghui.org/html/articles/2020/2/10/183177.html
   Some Coronavirus Information That Can Help in Truth-Clarification
   http://en.minghui.org/html/articles/2020/2/12/183212.html
 
+Taken from how communism rules over the world
+
+The communist movement not only deprives people of their lives, but also leads to enormous destruction of traditional values and culture. In particular, in communist China, moral standards have already dropped to a horrifying degree, far beyond what one can easily imagine. The harvesting of organs from living people, good people who practice self-cultivation, has become a state-sanctioned industrial operation. Communists have turned humans into monsters. Medical personnel, who are supposed to help the sick, have become demonic murderers. The CCP’s evil has reached across the world. Countries that are supposed to be upholding human rights are enticed with economic incentives to turn a blind eye.
 
 
 “

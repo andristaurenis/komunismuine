@@ -113,6 +113,27 @@ aside > div {
     vertical-align: middle;
     margin-right: 10px;
 }
+.image { 
+    margin: 0px;
+    padding: 0px;
+    position: relative; 
+    width: 100%; /* for IE 6 */
+}
+
+.image h2 { 
+    position: absolute; 
+    top: 10px;
+    /* left: 20px;  */
+    width: 100%; 
+    text-align: center;
+}
+.image h3 { 
+    position: absolute; 
+    bottom: 10px;
+    /* left: 20px;  */
+    width: 100%; 
+    text-align: center;
+}
 body > section {
     max-width: 1000px;
     margin: auto;
