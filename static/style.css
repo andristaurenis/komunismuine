@@ -126,6 +126,7 @@ aside > div {
     /* left: 20px;  */
     width: 100%; 
     text-align: center;
+    background: rgba(255, 255, 255, 0.3);
 }
 .image h3 { 
     position: absolute; 
@@ -133,6 +134,7 @@ aside > div {
     /* left: 20px;  */
     width: 100%; 
     text-align: center;
+    background: rgba(255, 255, 255, 0.3);
 }
 body > section {
     max-width: 1000px;
