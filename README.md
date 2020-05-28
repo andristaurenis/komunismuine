@@ -5,6 +5,9 @@ add link to github
 Add the following references
 by individuals I intend to reference the basketball incident
 
+Stay Rational
+https://en.minghui.org/html/articles/2020/3/20/183715.html
+
 Thirteen Methods of Torture Used in Today's China
 http://www.clearharmony.net/articles/a25608-Thirteen-Methods-of-Torture-Used-in-Today-s-China.html#.Xq71t5pRW00
 
